@@ -1,3 +1,9 @@
+commit 2ae1adc2ed431eb638b83202ad5d4dffc354cad9
+Author: tim.cehovin <tim.cehovin@gmail.com>
+Date:   Tue Oct 18 12:56:46 2022 +0000
+
+    Drugi commit
+
 commit cdf5920645b5c87b1eeea8aad3a8ce11f9f3990d
 Author: tim.cehovin <tim.cehovin@gmail.com>
 Date:   Tue Oct 18 12:38:57 2022 +0000
